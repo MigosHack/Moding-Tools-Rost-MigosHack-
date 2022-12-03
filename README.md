@@ -7,8 +7,8 @@ This tool is based on:
 - <a href="https://github.com/Galaxy1036/scPacker">scPacker</a>, Developer: <a href="https://github.com/Galaxy1036">Galaxy1036</a></br>
 - <a href="https://github.com/Galaxy1036/sc_decode">sc_decode</a>, Developer: <a href="https://github.com/Galaxy1036">Galaxy1036</a></br>
 
-I wanna say "Thank You!" to these developers, because without their work XCoder wouldn't have been released!</br>
-Special thanks to <a href="https://github.com/spiky-s">spiky_Spike</a> for help with XCoder updates :)
+
+I am not a script creator!!! created a script: <a href="https://github.com/Rostmoment">Rost</a>
 
 ### Features:
 - Easy to use.
@@ -20,7 +20,7 @@ Special thanks to <a href="https://github.com/spiky-s">spiky_Spike</a> for help 
 On Windows:
 - Download Python 3.7 or newer version from <a href="https://www.python.org/downloads/">official page</a>.
 - Install Python. While Installing, enable such parameters as "Add Python to PATH", "Install pip", "Install py launcher", "Associate files with Python" and "Add Python to environment variables".
-- Download XCoder from <a href="https://github.com/MasterDevX/XCoder/releases">releases page</a> and extract it.
+- Download XCoder from <a href="https://github.com/MigosHack/Moding-Tools-Rost-MigosHack">official page</a> and extract it.
 - Execute "Main.py" file</br>
 
 On Android:
@@ -28,7 +28,7 @@ On Android:
 - Download and install PyDroid app from <a href="https://play.google.com/store/apps/details?id=ru.iiec.pydroid3">Google Play</a>.
 - Open PyDroid and wait until Python installs.
 - Download cv2 module in Pip tab
-- Download XCoder from <a href="https://github.com/MasterDevX/XCoder/releases">releases page</a> and extract it.
+- Download XCoder from <a href="https://github.com/MigosHack/Moding-Tools-Rost-MigosHack">official page</a> and extract it.
 - In PyDroid open and execute "Main.py" file</br>
 
 ### TODO:
