@@ -1,22 +1,35 @@
-# Moding-Tools-Rost-MigosHack-
-Still the same XCoder but already improved  I AM NOT THE CREATOR!!! I JUST IMPROVED THE SCRIPT!!!
+# XCoder
+Compress / Decompress Brawl Stars SC files on Windows / Linux / Android!
 
-RU:
-1.Нажимаем на строку выше в проводнике и пишем там cmd
-2.В открывшейся консоли пишем python -m pip install -r modules.txt
-3.Ждем установки модулей...
-4.Потом закрываем консоль и нажимаем два раза на Main.py
-5.Если не открывается то снова открываем консоль(пункт 1) и пишем py Main.py
+### Credits
+This tool is based on:
+- <a href="https://github.com/Xset-s/png2sc">png2sc</a>, Developer: <a href="https://github.com/Xset-s">Xset-s</a>
+- <a href="https://github.com/Galaxy1036/scPacker">scPacker</a>, Developer: <a href="https://github.com/Galaxy1036">Galaxy1036</a></br>
+- <a href="https://github.com/Galaxy1036/sc_decode">sc_decode</a>, Developer: <a href="https://github.com/Galaxy1036">Galaxy1036</a></br>
 
+I wanna say "Thank You!" to these developers, because without their work XCoder wouldn't have been released!</br>
+Special thanks to <a href="https://github.com/spiky-s">spiky_Spike</a> for help with XCoder updates :)
 
-ФАЙЛЫ mp42sc.py.sc2json.py.jt.py. НЕ ТРОГАТЬ!!!
+### Features:
+- Easy to use.
+- Brawl Stars, Clash of Clans & Clash Royale support.
+- Multiplatform support (working on Windows, Linux and Android).
+- SC compilation / decompilation.
 
-EN:
-1.Click on the line above in the explorer and write cmd there
-2. In the console that opens, write python -m pip install -r modules.txt
-3. We are waiting for the installation of modules ...
-4. Then we close the console and double-click on Main.py
-5. If it does not open, then open the console again (point 1) and write py Main.py
+### How to install and use
+On Windows:
+- Download Python 3.7 or newer version from <a href="https://www.python.org/downloads/">official page</a>.
+- Install Python. While Installing, enable such parameters as "Add Python to PATH", "Install pip", "Install py launcher", "Associate files with Python" and "Add Python to environment variables".
+- Download XCoder from <a href="https://github.com/MasterDevX/XCoder/releases">releases page</a> and extract it.
+- Execute "Main.py" file</br>
 
+On Android:
 
-FILES mp42sc.py.sc2json.py.jt.py. DO NOT TOUCH!!!
+- Download and install PyDroid app from <a href="https://play.google.com/store/apps/details?id=ru.iiec.pydroid3">Google Play</a>.
+- Open PyDroid and wait until Python installs.
+- Download cv2 module in Pip tab
+- Download XCoder from <a href="https://github.com/MasterDevX/XCoder/releases">releases page</a> and extract it.
+- In PyDroid open and execute "Main.py" file</br>
+
+### TODO:
+- CSV compilation / decompilation.
