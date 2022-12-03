@@ -8,7 +8,7 @@ This tool is based on:
 - <a href="https://github.com/Galaxy1036/sc_decode">sc_decode</a>, Developer: <a href="https://github.com/Galaxy1036">Galaxy1036</a></br>
 
 
-I am not a script creator!!! created a script: <a href="https://github.com/Rostmoment">Rost</a>
+I am not a script creator!!! I just fixed it!!!created a script: <a href="https://github.com/Rostmoment">Rost</a>
 
 ### Features:
 - Easy to use.
